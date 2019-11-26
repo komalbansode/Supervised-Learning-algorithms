@@ -11,7 +11,7 @@ The various supervised algorithms are:***
 
 In this repository there are 2 project files:
 
-***1st case studies has 4 files***
+# 1st case study has 4 files
 
 1.Case Study on Credit Risk.docx (It contains the problem statement).
 
@@ -24,29 +24,33 @@ In this repository there are 2 project files:
 Model has been built on various supervised learning algorithms so as to identify the eligibility of the  customer for loan and also developed the model on the basis of best performance out of all the algorithms.
 
 
-**CREDIT RISK CASE STUDY – PROBLEM STATEMENT**
+## CREDIT RISK CASE STUDY – PROBLEM STATEMENT
 
 Credit Risk:
 Credit risk is nothing but the default in payment of any loan by the borrower. In Banking sector this is an important factor to be considered before approving the loan of an applicant.
 
 
-Problem Statement:
+## Problem Statement:
 
 
 Company wants to automate the loan eligibility process (real time) based on customer detail provided while filling online application form. These details are Gender, Marital Status, Education, Number of Dependents, Income, Loan Amount, Credit History and others. To automate this process, they have given a problem to identify the customers segments, those are eligible for loan amount so that they can specifically target these customers. Here they have provided a partial data set.
 
 
 
-***2nd case studies has 2 files***
+# 2nd case study has 2 files
 
-# Problem Statement
+1.IndianLiverPatientData.txt
+
+2.liver_disease_logistic_reg.ipynb (code)
+
+## Problem Statement
 
 The given dataset is related to Indian patients who have been tested for a liver disease.
 Based on chemical compounds (bilrubin,albumin,protiens,alkaline phosphatase) present in human body and tests like SGOT, SGPT the outcome mentioned is whether person is a patient i.e, whether he needs to be diagnosed further or not.
 Perform data cleansing, and required transformations and build a predictive model which will be able to predict most of the cases accurately.
 
 
-## Following are the feature names for the given data:
+### Following are the feature names for the given data:
 
 Age,Gender,Total_Bilirubin,Direct_Bilirubin,Alkaline_Phosphotase,
 Alamine_Aminotransferase,Aspartate_Aminotransferase,Total_Protiens,Albumin,
